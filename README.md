@@ -8,6 +8,8 @@ If you want to get rosbag2 data, use <https://gitlab.com/ternaris/rosbags>.
 
 - Docker (tested on 19.03.14)
 
+- USE waymo dataset V1.2 as the later version uses different waymo toolkit format (eg. V1.4.2)
+
 ## Setup
 
 build docker for waymo2bag:
